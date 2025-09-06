@@ -1,0 +1,176 @@
+[
+  {
+    "query": "hi",
+    "search_type": "general",
+    "results": [
+      {
+        "title": "General Search Result 1 for 'hi'",
+        "url": "https://example.com/search1?q=hi",
+        "snippet": "This is a general search result about hi. It contains relevant information and details.",
+        "source": "General Web"
+      },
+      {
+        "title": "General Search Result 2 for 'hi'",
+        "url": "https://example2.com/info?topic=hi",
+        "snippet": "Another comprehensive resource about hi with detailed explanations.",
+        "source": "General Web"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "timestamp": "2025-09-01T13:39:27.350976"
+  },
+  {
+    "query": "hi",
+    "search_type": "general",
+    "results": [
+      {
+        "title": "General Search Result 1 for 'hi'",
+        "url": "https://example.com/search1?q=hi",
+        "snippet": "This is a general search result about hi. It contains relevant information and details.",
+        "source": "General Web"
+      },
+      {
+        "title": "General Search Result 2 for 'hi'",
+        "url": "https://example2.com/info?topic=hi",
+        "snippet": "Another comprehensive resource about hi with detailed explanations.",
+        "source": "General Web"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "timestamp": "2025-09-01T13:51:13.910637"
+  },
+  {
+    "query": "{\n  \"prompt\": \"{\\n    \\\"partnum\\\": \\\"B10099368\\\",\\n    \\\"item_name\\\": \\\"Festo Cylinder for lines 1,2,3,4 spreader press lid\\\",\\n    \\\"item_description\\\": \\\"FESTO DSBC-63-400-PPVA-N3 - ISO CYLINDER 1383588 - F01, G02, G03, G04 Spreader Press Lid 1383588\\\",\\n    \\\"manufacturer_name\\\": \\\"FESTO INC\\\",\\n    \\\"manufacturer_number\\\": \\\"\\\",\\n    \\\"vendor_name\\\": \\\"\\\",\\n    \\\"vendor_partnumber\\\": \\\"\\\"\\n}\"\n}\n",
+    "search_type": "general",
+    "results": [
+      {
+        "title": "General Search Result 1 for '{\n  \"prompt\": \"{\\n    \\\"partnum\\\": \\\"B10099368\\\",\\n    \\\"item_name\\\": \\\"Festo Cylinder for lines 1,2,3,4 spreader press lid\\\",\\n    \\\"item_description\\\": \\\"FESTO DSBC-63-400-PPVA-N3 - ISO CYLINDER 1383588 - F01, G02, G03, G04 Spreader Press Lid 1383588\\\",\\n    \\\"manufacturer_name\\\": \\\"FESTO INC\\\",\\n    \\\"manufacturer_number\\\": \\\"\\\",\\n    \\\"vendor_name\\\": \\\"\\\",\\n    \\\"vendor_partnumber\\\": \\\"\\\"\\n}\"\n}\n'",
+        "url": "https://example.com/search1?q={\n++\"prompt\":+\"{\\n++++\\\"partnum\\\":+\\\"B10099368\\\",\\n++++\\\"item_name\\\":+\\\"Festo+Cylinder+for+lines+1,2,3,4+spreader+press+lid\\\",\\n++++\\\"item_description\\\":+\\\"FESTO+DSBC-63-400-PPVA-N3+-+ISO+CYLINDER+1383588+-+F01,+G02,+G03,+G04+Spreader+Press+Lid+1383588\\\",\\n++++\\\"manufacturer_name\\\":+\\\"FESTO+INC\\\",\\n++++\\\"manufacturer_number\\\":+\\\"\\\",\\n++++\\\"vendor_name\\\":+\\\"\\\",\\n++++\\\"vendor_partnumber\\\":+\\\"\\\"\\n}\"\n}\n",
+        "snippet": "This is a general search result about {\n  \"prompt\": \"{\\n    \\\"partnum\\\": \\\"B10099368\\\",\\n    \\\"item_name\\\": \\\"Festo Cylinder for lines 1,2,3,4 spreader press lid\\\",\\n    \\\"item_description\\\": \\\"FESTO DSBC-63-400-PPVA-N3 - ISO CYLINDER 1383588 - F01, G02, G03, G04 Spreader Press Lid 1383588\\\",\\n    \\\"manufacturer_name\\\": \\\"FESTO INC\\\",\\n    \\\"manufacturer_number\\\": \\\"\\\",\\n    \\\"vendor_name\\\": \\\"\\\",\\n    \\\"vendor_partnumber\\\": \\\"\\\"\\n}\"\n}\n. It contains relevant information and details.",
+        "source": "General Web"
+      },
+      {
+        "title": "General Search Result 2 for '{\n  \"prompt\": \"{\\n    \\\"partnum\\\": \\\"B10099368\\\",\\n    \\\"item_name\\\": \\\"Festo Cylinder for lines 1,2,3,4 spreader press lid\\\",\\n    \\\"item_description\\\": \\\"FESTO DSBC-63-400-PPVA-N3 - ISO CYLINDER 1383588 - F01, G02, G03, G04 Spreader Press Lid 1383588\\\",\\n    \\\"manufacturer_name\\\": \\\"FESTO INC\\\",\\n    \\\"manufacturer_number\\\": \\\"\\\",\\n    \\\"vendor_name\\\": \\\"\\\",\\n    \\\"vendor_partnumber\\\": \\\"\\\"\\n}\"\n}\n'",
+        "url": "https://example2.com/info?topic={\n++\"prompt\":+\"{\\n++++\\\"partnum\\\":+\\\"B10099368\\\",\\n++++\\\"item_name\\\":+\\\"Festo+Cylinder+for+lines+1,2,3,4+spreader+press+lid\\\",\\n++++\\\"item_description\\\":+\\\"FESTO+DSBC-63-400-PPVA-N3+-+ISO+CYLINDER+1383588+-+F01,+G02,+G03,+G04+Spreader+Press+Lid+1383588\\\",\\n++++\\\"manufacturer_name\\\":+\\\"FESTO+INC\\\",\\n++++\\\"manufacturer_number\\\":+\\\"\\\",\\n++++\\\"vendor_name\\\":+\\\"\\\",\\n++++\\\"vendor_partnumber\\\":+\\\"\\\"\\n}\"\n}\n",
+        "snippet": "Another comprehensive resource about {\n  \"prompt\": \"{\\n    \\\"partnum\\\": \\\"B10099368\\\",\\n    \\\"item_name\\\": \\\"Festo Cylinder for lines 1,2,3,4 spreader press lid\\\",\\n    \\\"item_description\\\": \\\"FESTO DSBC-63-400-PPVA-N3 - ISO CYLINDER 1383588 - F01, G02, G03, G04 Spreader Press Lid 1383588\\\",\\n    \\\"manufacturer_name\\\": \\\"FESTO INC\\\",\\n    \\\"manufacturer_number\\\": \\\"\\\",\\n    \\\"vendor_name\\\": \\\"\\\",\\n    \\\"vendor_partnumber\\\": \\\"\\\"\\n}\"\n}\n with detailed explanations.",
+        "source": "General Web"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]",
+    "timestamp": "2025-09-01T13:55:04.112642"
+  },
+  {
+    "query": "Python FastAPI authentication",
+    "search_type": "general",
+    "results": [
+      {
+        "title": "Comprehensive Guide to Python FastAPI authentication",
+        "url": "https://example.com/guide/python-fastapi-authentication",
+        "snippet": "This comprehensive guide covers everything you need to know about Python FastAPI authentication, including best practices, examples, and implementation details.",
+        "source": "General Web"
+      },
+      {
+        "title": "Python FastAPI authentication - Complete Tutorial and Documentation",
+        "url": "https://tutorial-site.com/python-fastapi-authentication",
+        "snippet": "Step-by-step tutorial and complete documentation for Python FastAPI authentication with practical examples and code snippets.",
+        "source": "General Web"
+      },
+      {
+        "title": "Advanced Python FastAPI authentication Techniques and Solutions",
+        "url": "https://advanced-tech.com/solutions/python_fastapi_authentication",
+        "snippet": "Explore advanced techniques and professional solutions for Python FastAPI authentication. Learn from industry experts and real-world case studies.",
+        "source": "General Web"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.. However, the search results above provide relevant information about Python FastAPI authentication.",
+    "timestamp": "2025-09-02T08:19:56.925077"
+  },
+  {
+    "query": "hi",
+    "search_type": "general",
+    "results": [
+      {
+        "title": "Comprehensive Guide to hi",
+        "url": "https://example.com/guide/hi",
+        "snippet": "This comprehensive guide covers everything you need to know about hi, including best practices, examples, and implementation details.",
+        "source": "General Web"
+      },
+      {
+        "title": "hi - Complete Tutorial and Documentation",
+        "url": "https://tutorial-site.com/hi",
+        "snippet": "Step-by-step tutorial and complete documentation for hi with practical examples and code snippets.",
+        "source": "General Web"
+      },
+      {
+        "title": "Advanced hi Techniques and Solutions",
+        "url": "https://advanced-tech.com/solutions/hi",
+        "snippet": "Explore advanced techniques and professional solutions for hi. Learn from industry experts and real-world case studies.",
+        "source": "General Web"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.. However, the search results above provide relevant information about hi.",
+    "timestamp": "2025-09-02T08:29:49.337936"
+  },
+  {
+    "query": "hii",
+    "search_type": "trusted_document",
+    "results": [
+      {
+        "title": "hii - Comprehensive Manual",
+        "url": "https://docs.repository.com/pdf/hii.pdf",
+        "snippet": "A PDF comprehensive manual containing detailed information, specifications, and analysis about hii",
+        "source": "Document Repository",
+        "type": "PDF"
+      },
+      {
+        "title": "hii - Data Analysis Workbook",
+        "url": "https://docs.repository.com/excel/hii.xlsx",
+        "snippet": "A Excel data analysis workbook containing detailed information, specifications, and analysis about hii",
+        "source": "Document Repository",
+        "type": "Excel"
+      },
+      {
+        "title": "hii - Detailed Specification Document",
+        "url": "https://docs.repository.com/word/hii.docx",
+        "snippet": "A Word detailed specification document containing detailed information, specifications, and analysis about hii",
+        "source": "Document Repository",
+        "type": "Word"
+      },
+      {
+        "title": "hii - Presentation Slides",
+        "url": "https://docs.repository.com/powerpoint/hii.pptx",
+        "snippet": "A PowerPoint presentation slides containing detailed information, specifications, and analysis about hii",
+        "source": "Document Repository",
+        "type": "PowerPoint"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.. However, the search results above provide relevant information about hii.",
+    "timestamp": "2025-09-02T08:33:08.421034"
+  },
+  {
+    "query": "Python FastAPI tutorial",
+    "search_type": "general",
+    "results": [
+      {
+        "title": "Comprehensive Guide to Python FastAPI tutorial",
+        "url": "https://example.com/guide/python-fastapi-tutorial",
+        "snippet": "This comprehensive guide covers everything you need to know about Python FastAPI tutorial, including best practices, examples, and implementation details.",
+        "source": "General Web"
+      },
+      {
+        "title": "Python FastAPI tutorial - Complete Tutorial and Documentation",
+        "url": "https://tutorial-site.com/python-fastapi-tutorial",
+        "snippet": "Step-by-step tutorial and complete documentation for Python FastAPI tutorial with practical examples and code snippets.",
+        "source": "General Web"
+      },
+      {
+        "title": "Advanced Python FastAPI tutorial Techniques and Solutions",
+        "url": "https://advanced-tech.com/solutions/python_fastapi_tutorial",
+        "snippet": "Explore advanced techniques and professional solutions for Python FastAPI tutorial. Learn from industry experts and real-world case studies.",
+        "source": "General Web"
+      }
+    ],
+    "ai_summary": "AI summary unavailable: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.. However, the search results above provide relevant information about Python FastAPI tutorial.",
+    "timestamp": "2025-09-02T09:57:06.511926"
+  }
+]

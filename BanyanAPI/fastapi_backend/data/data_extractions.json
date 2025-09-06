@@ -1,0 +1,698 @@
+[
+  {
+    "prompt": "{\n    \"partnum\": \"B10099368\",\n    \"item_name\": \"Festo Cylinder for lines 1,2,3,4 spreader press lid\",\n    \"item_description\": \"FESTO DSBC-63-400-PPVA-N3 - ISO CYLINDER 1383588 - F01, G02, G03, G04 Spreader Press Lid 1383588\",\n    \"manufacturer_name\": \"FESTO INC\",\n    \"manufacturer_number\": \"\",\n    \"vendor_name\": \"\",\n    \"vendor_partnumber\": \"\"\n}",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-01T13:50:43.499103"
+  },
+  {
+    "prompt": "hi",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-01T13:51:43.397376"
+  },
+  {
+    "prompt": "hi",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-01T13:54:28.469768"
+  },
+  {
+    "prompt": "Extract industrial parts data with cylinders and bearings",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-02T08:17:25.480949"
+  },
+  {
+    "prompt": "Extract industrial parts data",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-02T09:56:53.239927"
+  },
+  {
+    "prompt": "how are you",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-02T10:44:24.749980"
+  },
+  {
+    "prompt": "business unit technical specifications data structure",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-04T08:58:00.617262"
+  },
+  {
+    "prompt": "Extract industrial parts data",
+    "extracted_data": [
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "FESTO",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "BU",
+        "property": "MANUFACTURER NUMBER 1",
+        "value": "1383588",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "BORE DIAMETER",
+        "value": "63MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10099368",
+        "escn": "CYLINDER ASSEMBLY, LINEAR ACTUATING",
+        "classtype": "INC",
+        "property": "STROKE",
+        "value": "400MM",
+        "manufacturer": "FESTO INC"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "NTN",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10054276",
+        "escn": "BEARING INSERT",
+        "classtype": "INC",
+        "property": "INSIDE DIAMETER",
+        "value": "30MM",
+        "manufacturer": "NTN BEARING CORPORATION"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "TOLOMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10011511",
+        "escn": "CALIPER, BRAKE",
+        "classtype": "INC",
+        "property": "TYPE",
+        "value": "ASSEMBLY, PNEUMATIC",
+        "manufacturer": "TOLOMATIC"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "BU",
+        "property": "MANUFACTURER NAME 1",
+        "value": "SIEMENS",
+        "manufacturer": "SIEMENS"
+      },
+      {
+        "partnum": "B10012022",
+        "escn": "CONTACT, SET",
+        "classtype": "INC",
+        "property": "STANDARDS",
+        "value": "EAC, UKCA",
+        "manufacturer": "SIEMENS"
+      }
+    ],
+    "total_records": 10,
+    "timestamp": "2025-09-04T10:03:45.461892"
+  }
+]

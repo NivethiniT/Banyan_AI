@@ -1,0 +1,121 @@
+[
+  {
+    "filename": "sample_input_data_120.xlsx",
+    "analysis": {
+      "total_rows": 120,
+      "columns": [
+        "Partnum",
+        "Item Name",
+        "Item Description",
+        "Manufacturer Name",
+        "Manufacturer Number",
+        "Vendor Name",
+        "Vendor Partnumber"
+      ],
+      "bu_items": [],
+      "inc_items": [],
+      "summary": {}
+    },
+    "ai_insights": "AI analysis unavailable",
+    "timestamp": "2025-09-01T13:51:34.915236"
+  },
+  {
+    "filename": "sample_input_data_120.xlsx",
+    "analysis": {
+      "total_rows": 120,
+      "columns": [
+        "Partnum",
+        "Item Name",
+        "Item Description",
+        "Manufacturer Name",
+        "Manufacturer Number",
+        "Vendor Name",
+        "Vendor Partnumber"
+      ],
+      "bu_items": [],
+      "inc_items": [],
+      "summary": {}
+    },
+    "ai_insights": "AI analysis unavailable",
+    "timestamp": "2025-09-02T08:07:03.273212"
+  },
+  {
+    "filename": "sample_input_data_120.xlsx",
+    "analysis": {
+      "total_rows": 120,
+      "columns": [
+        "Partnum",
+        "Item Name",
+        "Item Description",
+        "Manufacturer Name",
+        "Manufacturer Number",
+        "Vendor Name",
+        "Vendor Partnumber"
+      ],
+      "column_count": 7,
+      "bu_items": [],
+      "inc_items": [],
+      "summary": {
+        "unique_partnums": 10,
+        "partnum_column": "Partnum",
+        "unique_escns": 10,
+        "escn_column": "Item Description"
+      },
+      "sample_data": [
+        {
+          "Partnum": "B10054276",
+          "Item Name": "Bearing, Insert, 30mm",
+          "Item Description": "30mm ID, 62mm OD, 38.1mm Wide",
+          "Manufacturer Name": "NTN BEARING CORPORATION",
+          "Manufacturer Number": "UC206D1",
+          "Vendor Name": "APPLIED INDUSTRIAL TECHNOLOGIES INC",
+          "Vendor Partnumber": 100730162
+        },
+        {
+          "Partnum": "B10054277",
+          "Item Name": "Bearing, Insert, 25mm",
+          "Item Description": "25mm ID, 52mm OD, 34mm Wide",
+          "Manufacturer Name": "SKF",
+          "Manufacturer Number": "UC205",
+          "Vendor Name": "MSC INDUSTRIAL SUPPLY",
+          "Vendor Partnumber": 102567833
+        },
+        {
+          "Partnum": "B10054278",
+          "Item Name": "Bearing, Insert, 20mm",
+          "Item Description": "20mm ID, 47mm OD, 31mm Wide",
+          "Manufacturer Name": "FAG",
+          "Manufacturer Number": "UC204",
+          "Vendor Name": "GRAINGER",
+          "Vendor Partnumber": 105998234
+        },
+        {
+          "Partnum": "B10054279",
+          "Item Name": "Cylinder, ISO 63x400",
+          "Item Description": "63mm Bore, 400mm Stroke, Double Acting",
+          "Manufacturer Name": "FESTO",
+          "Manufacturer Number": "DSBC-63-400-PPVA-N3",
+          "Vendor Name": "FESTO DIRECT",
+          "Vendor Partnumber": 200876543
+        },
+        {
+          "Partnum": "B10054280",
+          "Item Name": "Cylinder, Compact 50mm",
+          "Item Description": "50mm Bore, 50mm Stroke",
+          "Manufacturer Name": "SMC CORPORATION",
+          "Manufacturer Number": "CQ2B50-50DZ",
+          "Vendor Name": "RS COMPONENTS",
+          "Vendor Partnumber": 209875234
+        }
+      ],
+      "data_quality": {
+        "null_counts": {
+          "Partnum": 0,
+          "Item Name": 0,
+          "Item Description": 0,
+          "Manufacturer Name": 0,
+          "Manufacturer Number": 0,
+          "Vendor Name": 0,
+          "Vendor Partnumber": 0
+        },
+        "duplicate_rows": 

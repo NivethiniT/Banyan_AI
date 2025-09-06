@@ -1,0 +1,20 @@
+{
+    "general_search": [
+        {
+            "prompt": "string",
+            "response": "\"String\" can refer to several things, depending on the context.  To best answer your question, I need more information.  Are you interested in:\n\n* **Strings in programming?**  This refers to a sequence of characters, like \"Hello, world!\".  Different programming languages have different ways of handling strings.  I can explain string manipulation, methods, and data structures if this is what you mean.\n\n* **Strings in other contexts?**  This could refer to a thin cord or a series of things connected together.  A string of pearls, for example.\n\n* **Something else entirely?**  Perhaps you're thinking of a specific type of string, or using the word in a metaphorical sense.\n\nPlease clarify your request so I can give you a more relevant and helpful response.\n"
+        },
+        {
+            "prompt": "hl",
+            "response": "Please provide me with some context or clarify your request. \"hl\" could mean many things.  Do you mean:\n\n* **Highlight?**  If so, highlight *what*?\n* **Headlines?**  Headlines for what?\n* **Half-life?**  In what context?\n* **Something else entirely?**\n\nGive me more information so I can help you.\n"
+        }
+    ],
+    "trusted_sites": [
+        "wikipedia.org",
+        "arxiv.org"
+    ],
+    "trusted_docs": [],
+    "glossary": {
+        "AI": "Artificial Intelligence"
+    }
+}
